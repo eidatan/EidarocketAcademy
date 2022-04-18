@@ -1,2 +1,2 @@
-# EidarocketAcademy
+# rocketAcademy
 Created with CodeSandbox
