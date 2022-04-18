@@ -6,7 +6,7 @@
 // stage 3) compareNumber - compare 2) between players. Bigger number wins
 // What information do I have? 2 dice roll outcome
 // What information do I need? player's choice of arrangement
-// How can I get there? maths random and array to store player's arrangement
+// How can I get there? maths random and array to store player's arrangement.
 
 // helper function to generate random number to act as dice roll
 var generateRandomNumber = function () {
